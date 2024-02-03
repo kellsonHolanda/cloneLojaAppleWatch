@@ -4,7 +4,7 @@
 
 
 O presente projeto, utilizado para fins de estudo, foi desenvolvido com o acompanhamento 
-de aulas da Hashtag Treinamentos: ![logo da hashtag](https://www.hashtagtreinamentos.com/wp-content/uploads/2022/05/Logo-Hashtag-Original-100x45px.png.webp) 
+de aulas da Hashtag Treinamentos: ![logo da hashtag](imagens/logo.png) 
 
 O projeto objetiva possibilitar a interação do usuário com a página, alterando cores, tamanho da pulseira e a
 visualização do produto.
